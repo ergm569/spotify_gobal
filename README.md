@@ -10,6 +10,6 @@ Contiene todas las canciones que han ingresado al top 200 semanal de Spotify en 
 
 # Contenido
 Este repositorio contiene: 
-  > spotify.json Archivo de la fuente de datos en formato json. Es el resultado de convertir la fuente en csv a json.
-  > Spotify Dashboard_v2021.3.twbx Archivo de trabajo en Tableau. También se puede descargar directamente desde la dirección de la visualización.
+  > 1) spotify.json Archivo de la fuente de datos en formato json. Es el resultado de convertir la fuente en csv a json.
+  > 2) Spotify Dashboard_v2021.3.twbx Archivo de trabajo en Tableau. También se puede descargar directamente desde la dirección de la visualización.
 
